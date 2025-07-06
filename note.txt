@@ -1,0 +1,2 @@
+//g++ -o peakMountain PeakMountain.cpp 
+//./peakMountain
