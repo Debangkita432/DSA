@@ -53,6 +53,6 @@ int main() {
     vector<int> arr = {40,30,10,20};
     int n = arr.size();//boards
     int m = 2; //painters
-    cout << paintedBoards(arr, n, m) << "\n";  
+    cout << paintedBoards(arr, n, m) << "\n";  //min time ot paint all the boards
     return 0;
 }
